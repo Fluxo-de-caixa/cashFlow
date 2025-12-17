@@ -23,7 +23,7 @@ O sistema foi projetado com três princípios principais:
 
 ## 🧾 Formulário de Lançamento
 
-![Formulário de Fluxo de Caixa](assets/formulario.png)
+![Formulário de Fluxo de Caixa](assets/f1.png)
 
 **Função:**  
 Registrar entradas e saídas de forma rápida.
@@ -47,7 +47,7 @@ Registrar entradas e saídas de forma rápida.
 
 ## 📊 Dashboard Financeiro
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/f2.png)
 
 **Função:**  
 Visualizar a situação financeira em segundos.
@@ -63,7 +63,7 @@ Visualizar a situação financeira em segundos.
 
 ## 📦 Produtos e Serviços
 
-![Produtos e Serviços](assets/produtos.png)
+![Produtos e Serviços](assets/f4.png)
 
 **Função:**  
 Cadastro de tudo que gera receita ou custo.
@@ -78,7 +78,7 @@ Essas informações alimentam automaticamente o formulário.
 
 ## 💸 Despesas – Subgrupos
 
-![Despesas](assets/despesas.png)
+![Despesas](assets/f3.png)
 
 **Função:**  
 Organizar os gastos de forma inteligente.
@@ -99,7 +99,7 @@ Organizar os gastos de forma inteligente.
 
 ## 💰 Receitas – Subgrupos
 
-![Receitas](assets/receitas.png)
+![Receitas](assets/f4.png)
 
 **Função:**  
 Organizar as fontes de receita.
