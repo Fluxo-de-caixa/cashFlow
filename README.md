@@ -167,3 +167,8 @@ Facilitando o uso no dia a dia.
 ---
 
 📎 *Para utilizar, basta copiar ou importar a planilha para sua conta do Google Sheets.*
+
+##  Link  
+
+https://docs.google.com/spreadsheets/d/1CEyqLa0XlnfXQDyzWlRAkzLCBToZVxqp9zLxpIgKK4w/copy
+
